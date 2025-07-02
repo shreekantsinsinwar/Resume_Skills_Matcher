@@ -1,3 +1,6 @@
+![Output Screenshot](Screenshot_Resume_Matcher.png)
+
+
 # Resume Keyword Matcher (CLI Tool)
 
 A command-line Python tool that compares your resume with a job description and shows:
@@ -13,4 +16,3 @@ A command-line Python tool that compares your resume with a job description and 
 pip install -r requirements.txt
 
 
-![Output Screenshot](/home/neo/Pictures/Screenshots/Screenshot_Resume_Matcher.png)
