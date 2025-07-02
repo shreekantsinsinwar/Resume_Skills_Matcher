@@ -11,3 +11,9 @@ A command-line Python tool that compares your resume with a job description and 
 
 ```bash
 pip install -r requirements.txt
+
+
+
+<p align="center">
+  <img src="/home/neo/Pictures/Screenshots/Screenshot_Resume_Matcher.png" alt="Tool Banner" width="80%">
+</p>
